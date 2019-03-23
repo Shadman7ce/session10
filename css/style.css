@@ -162,6 +162,8 @@ form {
     width: 290px;
     padding: 10px 50px 10px 10px;
     outline: none;
+	font-family:'Playfair Display', serif;
+	color:#626262;
 }
 .for_form button {
     background: transparent;
@@ -220,7 +222,7 @@ footer {
 .icons ul li {
     float: left;
     list-style: none;
-	color: #626262;
+    color: #626262;
     font-size: 14px;
     font-weight: 400;
 }
